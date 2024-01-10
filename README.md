@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **subhadeep-2004/subhadeep-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
