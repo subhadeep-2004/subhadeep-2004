@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXo3a2Y5YWE2cnlxMzM2MmdqbXljZWw1bHp6aWZhM2JlNnczdGlucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" width=200 height=300 />
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXo3a2Y5YWE2cnlxMzM2MmdqbXljZWw1bHp6aWZhM2JlNnczdGlucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" width="200" height="300" />
 </div>
 
 ###
