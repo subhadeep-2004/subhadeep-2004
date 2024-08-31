@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">📚 I'm currently in 2nd year  <br>🎯 Developing in MERN stack<br>🎲 I have a keen interest in both web development and machine learning</p>
+<p align="left">📚 I'm currently in 3rd year  <br>🎯 Developing in MERN stack<br>🎲 I have a keen interest in both web development and machine learning</p>
+
 
 ###
 
